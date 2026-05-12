@@ -42,3 +42,6 @@ SciBERT achieved the best results, likely due to its domain-specific pretraining
 The most challenging distinction was between the `cs` and `stat` categories. In particular, the `cs.LG` and `stat.ML` communities on arXiv substantially overlap, and the model naturally reflects this ambiguity.
 
 The remaining categories were separated much more confidently by the model.
+
+## Hugging Face space
+https://huggingface.co/spaces/pinmax/arxiv-classifier
